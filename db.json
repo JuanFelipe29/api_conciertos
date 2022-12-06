@@ -1,5 +1,5 @@
-{
-   "concierto": [
+
+   [
         {
             "id":1,
             "nombre":"LA SOLAR CARTAGENA",
@@ -57,4 +57,4 @@
             "asistentes":"30.000"
         }
     ]
-}
+
